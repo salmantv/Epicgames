@@ -1,0 +1,396 @@
+.main{
+     width: 100%;
+     height: 100vh;
+     background-color: rgb(0, 0, 0);
+     position: relative;
+}
+
+body{
+
+ position: relative;
+ margin: 0% ;
+
+}
+.Head{
+  
+    background-color: #2a2a2a;
+    width: 100%;
+    height: 55px;
+    display: flex;
+    
+    
+}
+.fixHead{
+        background-color: rgb(0, 0, 0);
+        width: 87%;
+        height: 9vh;
+        display: flex;
+        position: fixed;
+        padding-left: 200px;
+        position: sticky;
+
+}
+.Trendeing{
+
+    height: 79vh;
+    width: 87%;
+    padding-left: 190px;
+    background-color: rgb(0, 0, 0);
+    padding-top: 22px;
+    display: flex;
+}
+.Head-left{
+
+    height: 55px;
+    width: 80%;
+    background-color: #2a2a2a;
+    display: flex;
+    position: relative;
+}
+.Epic{
+     
+    align-items: center;
+    width: 6.5%;
+    height: 55px;
+    background-color: #2a2a2a;
+}
+.Store{
+   
+width: 5%;
+height: 55px;
+background-color: #2a2a2a ;
+}
+.FAQ{
+
+    width: 5%;
+    height: 55px;
+    background-color: #2a2a2a;
+}
+
+.HELP{
+    width: 5%;
+    height: 55x;
+    background-color:#2a2a2a;
+}
+.Unreal-Engine{
+
+    width: 10%;
+    height: 55px;
+    background-color :#2a2a2a;
+}
+
+.rightcHeade{
+
+    width: 20%;
+    height: 55px;
+    background-color: #2a2a2a;
+    display: flex;
+    position: relative;
+}
+.Erth{
+
+    width: 30%;
+    height: 55px;
+    background-color: #2a2a2a;
+}
+.Singing{
+
+    width: 52%;
+    height: 55Px;
+    background-color: #2a2a2a;
+    display: flex;
+}
+.Download{
+ 
+     width: 50%;
+     height: 55px;
+     background-color: #007dfc; 
+}
+.icon1{
+
+    padding-left: 8px;
+    padding-top: 5px;
+}
+
+.Fonts{
+    
+    font-family: OpenSans,sans-serif,arial;
+    font-size: .72em;
+    color: #ccc;
+    padding-top: 10px;
+}
+.Unreal-Engine:hover {
+
+    background-color: rgb(56, 56, 122);
+}
+
+.Seting{
+
+    padding: 18px;
+
+}
+.Font{
+ 
+    font-family: OpenSans,sans-serif,arial;
+    font-size: .72em;
+    color: #ccc;
+    padding-top: 12px;
+
+
+    
+}
+.Seting1{
+  
+padding: 15.5px;
+
+}
+.Font2{
+
+    font-family: OpenSans,sans-serif,arial;
+    font-size: .72em;
+    color: #ccc;
+    padding-left: 39px;
+    padding-top: 12px;
+
+}
+.Search{
+
+
+    width: 11%;
+    height: 9vh;
+    background-color: #000000;
+}
+.Searchbar{
+    width: 80px;
+    height: 35px;
+    margin-top: 21px;
+    margin-left: 12px;
+    border-radius: 50px;
+    font-family: OpenSans,sans-serif,arial;
+    font-size: .72em;
+    padding-left: 38px;
+    background-color: rgb(56 52 52);
+    border: thick;
+}
+
+
+
+.Dicover{
+
+    font-family: OpenSans,sans-serif,arial;
+    font-size: .79em;
+    color: #ccc;
+    padding-top: 20.5px;
+    width: 60px;
+    padding-left: 12px;
+}
+.searchicon{
+
+    width: 130px;
+    height: 60px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.icons{
+
+    width: 30%;
+    height: 9vh;
+    background-color: aqua;
+
+}
+
+.Left{
+
+  width: 952px;
+  height: 535.5px;
+  background-color: yellow;
+  border-radius: 30px;
+
+
+}
+
+.Posters{
+
+ border-radius: 30px;
+
+
+}
+
+.right{
+
+    height: 535.5px;
+    width: 400px;
+    background-color: #000000;
+    border-radius: 30px;
+    padding-right: 170px;
+}
+
+.Gamesads{
+
+    width: 160px;
+    height: 80.6px;
+    background-color: #FFFFFF14;
+    border-radius: 21.5px;
+    justify-content: space-between;
+    max-width: 370px;
+    margin: 18px auto;
+    background: #FFFFFF14;
+    padding: 1px 0;
+    padding-right: 10px;
+    display: flex;
+}
+.poster{
+  
+    width: 50px;
+    height: 80.6px;
+    background-color:#00000014;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-top: 12.5px;
+}
+
+.gamesicons{
+    border-radius: 7px;
+    padding-top: 2px;
+}
+.Fonts{
+ 
+    font-family: OpenSans,sans-serif,arial;
+    font-size: .79em;
+    color: #ccc;
+  padding-left: 10px ;
+}
+
+.Prodectsbody{
+ width: 100%;
+ height: 120vh;
+ background-color: rgb(0, 0, 0);
+ 
+}
+
+.Games{
+    
+    display: flex;
+    width: 1200px;
+    height: 400.5px;
+    background-color: rgb(0, 0, 0);
+    padding-left: 200px;
+    padding-top: 50px;
+    justify-content: space-between;
+
+}
+
+.Game1{
+
+   width: 220px;
+   height: 350.5px;
+   background-color: #000000;
+   border-radius: 15px;  
+ 
+
+}
+
+.Games2{
+
+    width: 1200px;
+    height: 400px;
+    background-color: #000000;
+    padding-left: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Game2{
+ 
+    background-color: rgb(0 0 0);
+    width: 220px;
+    height: 350.5px;
+    border-radius: 15px;
+
+}
+
+.gameposter{
+    width: 214.5;
+    height: 285.5px;
+}
+
+.gamesposters{
+ 
+    border-radius: 6px; 
+      
+}
+.FontsGames{
+   
+    width: 214.5;
+    height: 65.5px;
+    background-color:rgb(0, 0, 0);
+    
+}
+.Fonts2{
+
+    font-family: OpenSans,sans-serif,arial;
+    font-size: .89em;
+    color: #ccc;
+
+}
+
+.offer{
+
+   width: 26.5px;
+   height: 20.5px;
+   background-color: #007dfc;
+   border-radius: 4px;
+ display: flex;
+   font-family: OpenSans,sans-serif,arial;
+   font-size: .75em;
+   color: #ccc;
+
+
+}
+.fonts{
+
+    font-family: OpenSans,sans-serif,arial;
+    font-size: 1.30em;
+    color: #ccc;
+    padding-left: 75px;
+    padding-top: 6px;
+}
+
+.off1{
+
+    font-family: OpenSans,sans-serif,arial;
+    font-size: 0.80em;
+    color: #ccc;
+
+}
+.NOoffer{
+
+    
+   width: 26.5px;
+   height: 20.5px;
+   background-color: #000000;
+   border-radius: 4px;
+    display: flex;
+   font-family: OpenSans,sans-serif,arial;
+   font-size: .75em;
+   color: #ccc;
+}
+
+.fonts1{
+
+    font-family: OpenSans,sans-serif,arial;
+    font-size: 1.30em;
+    color: #ccc;
+    padding-left: 15px;
+    padding-top: 6px;
+
+}
+.sale{
+   
+    font-family: OpenSans,sans-serif,arial;
+    font-size: 1.30em;
+    color: #ccc;
+ 
+
+}
